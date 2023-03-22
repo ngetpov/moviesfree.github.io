@@ -2,6 +2,9 @@ div
     {
         box-sizing: border-box;
     }
+.iamge-back{
+    background-image:url('https://mdbcdn.b-cdn.net/img/new/standard/city/041.webp');
+}
 .mainDiv
     {
         width:1200px;
